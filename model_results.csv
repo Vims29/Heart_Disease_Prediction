@@ -1,0 +1,8 @@
+model,accuracy,
+Random Forests,0.901099,
+KNN,0.835165,
+Logistic Regression,0.912088,
+Naive Bayes,0.912088,
+SVM,0.901099,
+Decision Trees,0.692308,
+,,
