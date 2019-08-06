@@ -1,2 +1,6 @@
-# Final_Project
-Final project for bootcamp
+
+ Team Project : Comparative Machine Learing algorithms to predict heart disease.
+ Team : Bimi
+        Eric
+        Kenny
+        Marc
