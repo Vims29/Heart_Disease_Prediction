@@ -3,7 +3,7 @@
  
  
  
- Team : Bimi
-        Eric
-        Kenny
+ Team : Bimi, 
+        Eric, 
+        Kenny,
         Marc
