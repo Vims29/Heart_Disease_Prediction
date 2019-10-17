@@ -9,7 +9,7 @@
         Marc
 
 Data Description
-The original data had 76 variables and the dataset used has only 14. The columns names were renamed for easy understanding.Variables like chest pain , blood pressure, cholesterol etc. were used for determining the whether a person suffer from heart disease or not.
+The original data had 76 variables and the dataset used has only 14. The columns names were renamed for easy understanding.Variables like chest pain , blood pressure, cholesterol etc. were used for determining  whether a person suffer from heart disease or not.Created a    keyword argument to run diﬀerent machine learning algorithms.
 
 Differnt Machine learnig alogrithms were used to find the the accuracy and presision recall score.
 
